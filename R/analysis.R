@@ -1,4 +1,4 @@
-## Code for: 
+## Code for: White et al. The exploitation of sexual signals by predators: a meta-analysis
 
 ## --- Clear out --- ##
 rm(list = ls())
