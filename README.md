@@ -1,4 +1,4 @@
-## Data and code for White et al. (in review) The exploitation of sexual signals by predators: a meta-analysis
+## Data and code for White et al. (2022) The exploitation of sexual signals by predators: a meta-analysis
 
 Contains:
 
